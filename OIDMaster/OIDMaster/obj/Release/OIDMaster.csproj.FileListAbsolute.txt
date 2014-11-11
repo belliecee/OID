@@ -1,0 +1,5 @@
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\bin\OIDMaster.dll
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\bin\OIDMaster.pdb
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\obj\Release\OIDMaster.dll
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\obj\Release\OIDMaster.pdb
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\obj\Release\OIDMaster.csprojResolveAssemblyReference.cache

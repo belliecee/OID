@@ -1,0 +1,5 @@
+D:\Source-OID Registration Annop\OIDReg\OIDReg\bin\OIDReg.dll
+D:\Source-OID Registration Annop\OIDReg\OIDReg\bin\OIDReg.pdb
+D:\Source-OID Registration Annop\OIDReg\OIDReg\obj\x86\Debug\OIDReg.csprojResolveAssemblyReference.cache
+D:\Source-OID Registration Annop\OIDReg\OIDReg\obj\x86\Debug\OIDReg.dll
+D:\Source-OID Registration Annop\OIDReg\OIDReg\obj\x86\Debug\OIDReg.pdb

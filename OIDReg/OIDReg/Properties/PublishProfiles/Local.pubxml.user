@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>ftp://10.4.2.39</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtEgH9uICTE+3r3+ms4tALAAAAAACAAAAAAAQZgAAAAEAACAAAADCyR+p+DPshyY3XZkXOCJ+B0Aw2d2K0BL5J8trFRrTjQAAAAAOgAAAAAIAACAAAABLbsOE5RGVaowbDWGbhSvQHRyfPa0aAD/MogN7IRxxTRAAAABwXAm2cJ4B/EjlGMSgfyy4QAAAAAHOKJS714+ggZUQjMcrmO14dR1KEtUv5EHFyDRTo6pzkcXnYdXJV7lAbf+r/3Wnc4BM0KiD9h830jlKD9BUXq8=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/email/approve1.txt">
+      <publishTime>09/07/2014 17:40:59</publishTime>
+    </File>
+    <File Include="App_Data/email/approve2.txt">
+      <publishTime>09/07/2014 17:41:44</publishTime>
+    </File>
+    <File Include="App_Data/email/received.txt">
+      <publishTime>10/23/2014 22:17:48</publishTime>
+    </File>
+    <File Include="App_Data/email/reject.txt">
+      <publishTime>10/23/2014 22:18:45</publishTime>
+    </File>
+    <File Include="App_Data/email/request_to_change.txt">
+      <publishTime>10/23/2014 22:19:48</publishTime>
+    </File>
+    <File Include="App_Data/temp/TextFile1.txt">
+      <publishTime>09/09/2014 23:56:17</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>10/05/2013 20:53:28</publishTime>
+    </File>
+    <File Include="bin/AjaxMin.dll">
+      <publishTime>09/26/2013 13:48:02</publishTime>
+    </File>
+    <File Include="bin/Obout.Ajax.UI.dll">
+      <publishTime>02/12/2014 08:19:58</publishTime>
+    </File>
+    <File Include="bin/OIDReg.dll">
+      <publishTime>10/27/2014 10:01:30</publishTime>
+    </File>
+    <File Include="blog.html">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="css/reset.css">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="css/screen.css">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="css/VectorLover.css">
+      <publishTime>09/08/2014 00:07:24</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/01/2014 11:13:35</publishTime>
+    </File>
+    <File Include="Default.Master">
+      <publishTime>08/26/2014 23:29:22</publishTime>
+    </File>
+    <File Include="displaytree.aspx">
+      <publishTime>09/12/2014 22:11:03</publishTime>
+    </File>
+    <File Include="docs/TextFile1.txt">
+      <publishTime>09/09/2014 23:55:50</publishTime>
+    </File>
+    <File Include="document.aspx">
+      <publishTime>10/24/2014 11:53:16</publishTime>
+    </File>
+    <File Include="findoid.aspx">
+      <publishTime>08/01/2014 11:16:55</publishTime>
+    </File>
+    <File Include="FirstLogin.aspx">
+      <publishTime>09/12/2014 21:51:42</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/13/2014 22:32:14</publishTime>
+    </File>
+    <File Include="images/bar_buttom---.png">
+      <publishTime>06/11/2014 16:12:14</publishTime>
+    </File>
+    <File Include="images/bar_buttom.png">
+      <publishTime>07/27/2014 20:55:42</publishTime>
+    </File>
+    <File Include="images/bg.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/bullet.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/clock.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/comments.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/doc.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/dot.gif">
+      <publishTime>06/12/2014 02:43:12</publishTime>
+    </File>
+    <File Include="images/edit-doc.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/firefox-gray.jpg">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/footer-bottom.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/gravatar.jpg">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/header.jpg">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/left-tab.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/nav.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/qsearch.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/quote.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/right-tab.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/search.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/top-menu.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/VectorLover.css">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="images/wrap.gif">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="invalidreq.aspx">
+      <publishTime>10/26/2014 23:52:07</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>08/17/2014 02:59:56</publishTime>
+    </File>
+    <File Include="Manage/css/reset.css">
+      <publishTime>06/19/2014 02:16:54</publishTime>
+    </File>
+    <File Include="Manage/css/screen.css">
+      <publishTime>06/19/2014 02:16:54</publishTime>
+    </File>
+    <File Include="Manage/css/VectorLover.css">
+      <publishTime>07/03/2014 11:11:24</publishTime>
+    </File>
+    <File Include="Manage/Default.aspx">
+      <publishTime>08/01/2014 11:24:04</publishTime>
+    </File>
+    <File Include="Manage/Detail.aspx">
+      <publishTime>09/14/2014 22:13:53</publishTime>
+    </File>
+    <File Include="Manage/images/bar_buttom.png">
+      <publishTime>07/27/2014 20:55:42</publishTime>
+    </File>
+    <File Include="Manage/images/bg.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/bullet.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/clock.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/comments.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/doc.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/dot.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/edit-doc.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/firefox-gray.jpg">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/footer-bottom.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/gravatar.jpg">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/header.jpg">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/left-tab.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/nav.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/qsearch.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/quote.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/right-tab.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/search.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/top-menu.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/VectorLover.css">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/images/wrap.gif">
+      <publishTime>06/19/2014 02:16:48</publishTime>
+    </File>
+    <File Include="Manage/list.aspx">
+      <publishTime>09/07/2014 02:33:03</publishTime>
+    </File>
+    <File Include="Manage/loadoid.aspx">
+      <publishTime>09/14/2014 22:02:20</publishTime>
+    </File>
+    <File Include="Manage/Manage.Master">
+      <publishTime>08/22/2014 00:11:39</publishTime>
+    </File>
+    <File Include="Manage/newoid.aspx">
+      <publishTime>09/12/2014 22:30:41</publishTime>
+    </File>
+    <File Include="Manage/oid.aspx">
+      <publishTime>08/26/2014 23:08:12</publishTime>
+    </File>
+    <File Include="Manage/oidchanged.aspx">
+      <publishTime>08/01/2014 11:25:59</publishTime>
+    </File>
+    <File Include="Manage/request.aspx">
+      <publishTime>09/12/2014 22:45:53</publishTime>
+    </File>
+    <File Include="Manage/search.aspx">
+      <publishTime>08/22/2014 00:09:13</publishTime>
+    </File>
+    <File Include="Manage/SearchResult.aspx">
+      <publishTime>08/22/2014 00:13:30</publishTime>
+    </File>
+    <File Include="Manage/Sidebar2.ascx">
+      <publishTime>08/01/2014 11:27:32</publishTime>
+    </File>
+    <File Include="oid.aspx">
+      <publishTime>08/01/2014 11:16:58</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>07/03/2014 15:42:08</publishTime>
+    </File>
+    <File Include="received.aspx">
+      <publishTime>10/23/2014 22:26:44</publishTime>
+    </File>
+    <File Include="register.aspx">
+      <publishTime>10/27/2014 09:39:54</publishTime>
+    </File>
+    <File Include="request.aspx">
+      <publishTime>10/27/2014 09:52:52</publishTime>
+    </File>
+    <File Include="Search.aspx">
+      <publishTime>08/01/2014 11:14:17</publishTime>
+    </File>
+    <File Include="SearchResult.aspx">
+      <publishTime>08/01/2014 11:14:04</publishTime>
+    </File>
+    <File Include="sendfile.aspx">
+      <publishTime>08/18/2014 11:02:04</publishTime>
+    </File>
+    <File Include="Sidebar1.ascx">
+      <publishTime>08/01/2014 11:25:42</publishTime>
+    </File>
+    <File Include="style.html">
+      <publishTime>06/11/2014 14:02:30</publishTime>
+    </File>
+    <File Include="Temp/1234.doc">
+      <publishTime>08/27/2014 17:56:54</publishTime>
+    </File>
+    <File Include="Temp/OIDField_v02.xlsx">
+      <publishTime>08/27/2014 17:57:02</publishTime>
+    </File>
+    <File Include="Temp/Outlook.zip">
+      <publishTime>08/27/2014 17:57:52</publishTime>
+    </File>
+    <File Include="upload.aspx">
+      <publishTime>09/13/2014 22:42:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/27/2014 10:02:20</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>09/14/2014 22:06:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

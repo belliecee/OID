@@ -1,0 +1,63 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="OIDMaster.Default" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>OID Manager</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<form id="form1" runat="server">
+    <div id="topPan">
+	    <!-- <a href="index.html"><img src="images/logo.gif" alt="Genious Web" width="208" height="58" border="0" title="Genious Web" /></a> -->
+        <div style="color:#ffffff; font-weight:100; font-size:xx-large;">
+            <br />
+            Object Identifier (OID) Administrator
+        </div>
+        <p>
+            ผู้ใช้งาน : <asp:LoginName ID="MasterLoginName1" runat="server" /> |                         
+            <asp:LoginStatus ID="MasterLoginStatus" runat="server" LogoutAction="Redirect" 
+                LogoutPageUrl="~/Login.aspx">
+            </asp:LoginStatus>
+
+        </p>
+	    <ul>
+            
+		    <li class="home"><a href="default.aspx">หน้าแรก</a></li>
+		    <li><a href="requests.aspx">รายการคำขอ</a></li>
+		    <li><a href="update.aspx">รายการเพิ่ม OID</a></li>
+		    <li><a href="oids.aspx">ข้อมูล OID</a></li>
+		    <li><a href="roots.aspx">ข้อมูลกิ่งหลัก</a></li>
+		    <li><a href="users.aspx">ผู้ใช้งาน</a></li>
+            <li><a href="userlog.aspx">log</a></li>
+	    </ul>
+    </div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    <div id="footermainPan">
+        <div id="footerPan">
+	            <a href="index.html"><img src="images/logo_etda_new.png"  width="186" height="50" border="0" class="footerlogo" /></a> 
+		            <ul>          
+ 	                    <li style="color: #ffffff">สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)<br />
+                            เป็นองค์กรของรัฐที่จัดตั้งขึ้นเพื่อส่งเสริมและพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ในประเทศไทย<br />
+                            ไม่ได้มีวัตถุประสงค์เพื่อแสวงหากำไร หากท่านพบว่ามีข้อมูลใดๆ ที่ละเมิดทรัพย์สินทางปัญญาปรากฏอยู่ใน<br />
+                            เว็บไซต์ของสำนักงาน โปรดแจ้งให้ทราบเพื่อดำเนินการแก้ปัญหาโดยเร็วที่สุดต่อไป</li>
+ 	             </ul>
+  	            <p>
+                      <br>
+  	            </p>
+	            </div>
+	    </div>
+</form>
+    
+    <div>
+
+    </div>
+    
+</body>
+</html>

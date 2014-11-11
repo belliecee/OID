@@ -1,0 +1,62 @@
+D:\website\OIDReg\OIDReg\bin\OIDReg.dll
+D:\website\OIDReg\OIDReg\bin\OIDReg.pdb
+D:\website\OIDReg\OIDReg\bin\AjaxControlToolkit.dll
+D:\website\OIDReg\OIDReg\bin\Microsoft.WindowsAzure.Storage.dll
+D:\website\OIDReg\OIDReg\bin\HtmlAgilityPack.dll
+D:\website\OIDReg\OIDReg\bin\AjaxMin.dll
+D:\website\OIDReg\OIDReg\bin\AjaxControlToolkit.pdb
+D:\website\OIDReg\OIDReg\bin\Microsoft.WindowsAzure.Storage.xml
+D:\website\OIDReg\OIDReg\bin\ar\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\cs\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\de\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\es\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\fr\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\he\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\hi\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\it\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\ja\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\ko\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\nl\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\pl\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\pt\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\ru\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\website\OIDReg\OIDReg\obj\Debug\OIDReg.dll
+D:\website\OIDReg\OIDReg\obj\Debug\OIDReg.pdb
+D:\website\OIDReg\OIDReg\obj\Debug\OIDReg.csprojResolveAssemblyReference.cache
+C:\Annop\OIDReg\OIDReg\bin\OIDReg.dll.config
+C:\Annop\OIDReg\OIDReg\bin\OIDReg.dll
+C:\Annop\OIDReg\OIDReg\bin\OIDReg.pdb
+C:\Annop\OIDReg\OIDReg\obj\Debug\OIDReg.dll
+C:\Annop\OIDReg\OIDReg\obj\Debug\OIDReg.pdb
+C:\Annop\OIDReg\OIDReg\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Annop\OIDReg\OIDReg\bin\HtmlAgilityPack.dll
+C:\Annop\OIDReg\OIDReg\bin\AjaxMin.dll
+C:\Annop\OIDReg\OIDReg\bin\AjaxControlToolkit.pdb
+C:\Annop\OIDReg\OIDReg\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Annop\OIDReg\OIDReg\bin\ar\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\cs\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\de\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\es\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\fr\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\he\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\hi\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\it\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\ja\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\ko\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\nl\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\pl\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\pt\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\ru\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Annop\OIDReg\OIDReg\obj\Debug\OIDReg.csprojResolveAssemblyReference.cache
+D:\Source-OID Registration Annop\OIDReg\OIDReg\bin\OIDReg.dll
+D:\Source-OID Registration Annop\OIDReg\OIDReg\bin\OIDReg.pdb
+D:\Source-OID Registration Annop\OIDReg\OIDReg\obj\Debug\OIDReg.dll
+D:\Source-OID Registration Annop\OIDReg\OIDReg\obj\Debug\OIDReg.pdb
+D:\Source-OID Registration Annop\OIDReg\OIDReg\bin\AjaxMin.dll
+D:\Source-OID Registration Annop\OIDReg\OIDReg\obj\Debug\OIDReg.csprojResolveAssemblyReference.cache

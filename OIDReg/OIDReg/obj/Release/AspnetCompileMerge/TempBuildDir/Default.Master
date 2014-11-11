@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="OIDReg.Default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta charset="utf-8"/>
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+
+    <title>OID Registration</title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="css/screen.css" />
+    <!--[if lt IE 9]>
+	    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" enctype="multipart/form-data">
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">			
+				
+		<h1 id="logo-text"><a href="#" title="">Object Identifier (OID) Registry</a></h1>		
+		<p id="slogan">ระบบทะเบียนหมายเลขโอไอดี</p>	
+		
+		<div id="top-menu">
+			<p>สำหรับสมาชิก กรุณา <a href="Login.aspx">Login</a></p>
+		</div>			
+				
+	<!--header ends-->					
+	</div>
+		
+	<!-- navigation starts-->	
+	<div  id="nav">
+		<ul>
+			<li><a href="default.aspx">หน้าแรก</a></li>
+			<li><a href="search.aspx">ค้นหา OID</a></li>			
+			<li><a href="displaytree.aspx">แสดงโครงสร้าง OID</a></li>
+            <li><a href="register.aspx">ลงทะเบียน OID</a></li>
+			<!-- <li><a href="request.aspx?id=1">Support</a></li> -->
+		</ul>
+	<!-- navigation ends-->	
+	</div>					
+			
+	<!-- content starts -->
+	<div id="content">
+	
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+		
+	<!-- content ends-->	
+	</div>
+		
+	<!-- footer starts -->		
+	<div id="footer">
+						
+        <div style="width:950px;border:0px solid black;margin:0px auto">
+            <div style="margin:10px 0px;">
+                    <div style="margin-bottom:5px; border-bottom:1px solid #ccc;">
+                        OID REGISTRATION &copy; ETDA 2014
+                    </div>
+                <div style="background-image:url(images/bar_buttom.png); height:92px;">
+                    <div style="width:640px; float:left;text-align:left;padding:10px; font-size:8pt;">
+                        <b>สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)</b><br />
+                        เป็นองค์กรของรัฐที่จัดตั้งขึ้นเพื่อส่งเสริมและพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ในประเทศไทย ไม่ได้มีวัตถุประสงค์เพื่อแสวงหากำไร หากท่านพบว่ามีข้อมูลใดๆ ที่ละเมิดทรัพย์สินทางปัญญาปรากฎอยู่ ในเว็บไซต์ของสำนักงาน โปรดแจ้งให้ทราบเพื่อดำเนินการแก้ปัญหาโดยเร็วที่สุดต่อไป
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+            </div>
+        </div>		
+	
+	<!-- footer ends-->
+	</div>
+
+<!-- wrap ends here -->
+</div>
+
+    <div>
+
+    </div>
+    </form>
+</body>
+</html>

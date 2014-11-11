@@ -1,0 +1,6 @@
+D:\Source-OID Registration Annop\OIDMaster\WebApplication1\obj\Debug\OIDMaster.csprojResolveAssemblyReference.cache
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\bin\OIDMaster.dll
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\bin\OIDMaster.pdb
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\obj\Debug\OIDMaster.dll
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\obj\Debug\OIDMaster.pdb
+D:\Source-OID Registration Annop\OIDMaster\OIDMaster\obj\Debug\OIDMaster.csprojResolveAssemblyReference.cache
